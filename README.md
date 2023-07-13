@@ -1,4 +1,2 @@
 # CSE-BUBBLE
-# CSE-BUBBLE
-# CSE-BUBBLE
-# CSE-BUBBLE
+# Single-Cycle Processor
