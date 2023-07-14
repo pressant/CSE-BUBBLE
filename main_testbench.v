@@ -1,4 +1,3 @@
-// Shourya Trikha (210994)
 // Prashant Kumar (210750)
 
 `include"Processor+ALU.v"
