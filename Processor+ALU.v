@@ -1,4 +1,3 @@
-// Shourya Trikha (210994)
 // Prashant Kumar (210750)
 
 module pro_alu(clk);
